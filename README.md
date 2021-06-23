@@ -1,4 +1,7 @@
 # Management_and_optimization_of_a_portfolio_with_positive_returns
-This project consists in creating a portfolio by choosing 10 assets distributed between Europe and Asia.
+Ce projet consiste a crée un portfeuille en choisissant 10 actif répartis entre l'europe et l'asie.
 # Objectif
-The goal is to have a positive return on the portfolio created on Day(0) in Day (10)
+Le but est d'avoir un rendement positif du portefeuille créé en J0 en J+10.
+# Utilisation
+J'ai utilisé l'API alpha vintage afin d'extraire les données et les séries temporelles des actifs. Ainsi, avec python, j'ai implémenté des modèles d'optimisations.
+L'analyse technique des actifs n'est pas assez avancée.
